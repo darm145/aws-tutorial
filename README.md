@@ -126,6 +126,8 @@ seleccione guardar.
 ![](Imagenes/4.9.PNG)   
 con estas configuraciones ya puede acceder al aplicativo y probarlo.  
 ![](Imagenes/4.10.PNG)   
+
+un video probando la funcionalidad se puede encontrar en el siguiente link: https://youtu.be/e-LJEobHDpo
 ## estructura de costos
 utilizando la herramienta de AWS para calcular precios se obtiene la siguiente información para una arquitectura similar a la utlizada en el presente tutorial:
 ![](Imagenes/5.1.PNG)   
